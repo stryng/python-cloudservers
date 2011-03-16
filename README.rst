@@ -1,6 +1,13 @@
 Python bindings to the Rackspace Cloud Servers API
 ==================================================
 
+.. warning::
+
+    This library has been renamed `openstack.compute`__. No future
+    development will be done here.
+    
+__ http://pypi.python.org/pypi/openstack.compute
+
 This is a client for Rackspace's Cloud Servers API. There's a Python API (the
 ``cloudservers`` module), and a command-line script (``cloudservers``). Each
 implements 100% of the Rackspace API.
